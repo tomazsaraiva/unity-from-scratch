@@ -5,7 +5,7 @@ A small game implemented using Unity Visual Scripting Language
 
 I developed this game as an example to develop in both platforms and explain the whole transition one needs to make when switching from one to the other.
 
-Try the game in [itch.io](https://tomazsaraiva.itch.io/unity-from-scratch).
+Try the game õn [itch.io](https://tomazsaraiva.itch.io/unity-from-scratch).
 
 ## Attributions
 - [Kenney Shooting Gallery Pack](https://opengameart.org/content/shooting-gallery#comment-form)
